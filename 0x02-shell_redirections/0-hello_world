@@ -4,3 +4,4 @@ echo "Hello, World"
 #!/bin/bash
  "Hello, World"
 
+echo "Hello, World"
